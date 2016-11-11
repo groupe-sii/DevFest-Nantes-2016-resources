@@ -16,7 +16,25 @@ Vincent Ogloblinsky
 
 [Slides](http://blog.vincentogloblinsky.com/devfest-2016-tree-shaking-slides/)
 
+**Un PaaS pour mon équipe en 20 min**
+
+François Teychene
+
+[Slides](https://docs.google.com/presentation/d/129Ga70TRFJ6i2GomQWU_5JS5mIpIlTBB84LRbUMpNxU/present?slide=id.g62811f3b0_18)
+
 ### Day 2
+
+**A la découverte de Go(lang)**
+
+Sébastien Friess & Rmain Lespinasse
+
+[Github](https://github.com/sfeir/handsongo)
+
+**WebVR : de la réalité virtuelle dans nos navigateurs, en route vers le Metaverse !**
+
+Olivier Guillet
+
+[Slides](https://speakerdeck.com/olivierguillet/devfest-nantes-2016-de-la-realite-virtuelle-dans-nos-navigateurs-en-route-vers-le-metaverse)
 
 **IoT: from zero to hero for web developers**
 
