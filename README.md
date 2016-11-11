@@ -101,3 +101,17 @@ Gautier Mechling
 Guillaume Membré
 
 [Slides](https://gmembre-zenika.github.io/devfest-2016-arduino/#/)
+
+**MinuteJS - Les nouveautés Javascript à ne pas rater !**
+
+Fabien Juif
+
+[Slides](https://docs.google.com/presentation/d/14TorRNaSEG08mdbgLz02rT3SC6bkyGTwqccOIG-2R1o/edit#slide=id.g138dd8872b_0_7635)
+
+**Développez des applications web desktop avec Electron de Github**
+
+Philippe Charrière & Yvonnick Frin
+
+[Github](https://github.com/frinyvonnick/electron-workshop)
+
+[Slides](https://github.com/frinyvonnick/electron-workshop/blob/master/slides/Electron%20DevFest%20Nantes%202016.pdf)
