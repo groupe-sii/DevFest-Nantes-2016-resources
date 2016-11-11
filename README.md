@@ -22,6 +22,12 @@ François Teychene
 
 [Slides](https://docs.google.com/presentation/d/129Ga70TRFJ6i2GomQWU_5JS5mIpIlTBB84LRbUMpNxU/present?slide=id.g62811f3b0_18)
 
+**Google Design Sprint : pourquoi l'essayer et comment l'adopter**
+
+Matthieu Gioani
+
+[Slides](http://www.slideshare.net/Matt_Gio/design-sprint-devfest-nantes-2016)
+
 ### Day 2
 
 **A la découverte de Go(lang)**
@@ -72,8 +78,26 @@ Thomas Fournaise
 
 [Slides](http://dl.free.fr/getfile.pl?file=/P55oR9OD)
 
-**Exécutez vos apps Angular 2 côté serveur**  
+**Exécutez vos apps Angular 2 côté serveur**
 
-Wassim Chegham  
+Wassim Chegham
 
 [Slides](http://slides.com/wassimchegham/angular2-universal)
+
+**Angular2 et les standards du Web**
+
+Emmanuel Demey
+
+[Slides](https://speakerdeck.com/gillespie59/angular2-et-les-standards-du-web)
+
+**La boîte à outils du développeur Android de 2016**
+
+Gautier Mechling
+
+[Slides](https://fr.slideshare.net/Nilhcem/the-2016-android-developer-toolbox-nantes)
+
+**Construire une station météo en NodeJS avec un Raspberry PI et un Arduino**
+
+Guillaume Membré
+
+[Slides](https://gmembre-zenika.github.io/devfest-2016-arduino/#/)
