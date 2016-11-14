@@ -110,7 +110,7 @@ Fabien Juif
 
 **Développez des applications web desktop avec Electron de Github**
 
-Philippe Charrière & Yvonnick Frin
+Philippe Charrière & Yvonnick Frin & Eric Briand
 
 [Github](https://github.com/frinyvonnick/electron-workshop)
 
