@@ -34,6 +34,13 @@ Antoine Richard
 
 [Slides](https://drive.google.com/open?id=0B1h6pGHwa6gxRHg2ckFOWEwtUEdKRHRudnlOVjVTbExWSUZJ)
 
+**C++ : The Beast is back**
+
+Pierre Salmon & Nicolas Greffard
+
+[Github](https://github.com/ddway2/devfest2016-phoenix-caffe)
+[Slides](https://github.com/ddway2/devfest2016-phoenix-caffe/blob/master/slides/slides.pdf)
+
 
 ### Day 2
 
