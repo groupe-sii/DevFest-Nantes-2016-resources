@@ -32,7 +32,7 @@ Matthieu Gioani
 
 **A la découverte de Go(lang)**
 
-Sébastien Friess & Rmain Lespinasse
+Sébastien Friess & Romain Lespinasse
 
 [Github](https://github.com/sfeir/handsongo)
 
