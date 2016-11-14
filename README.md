@@ -28,6 +28,13 @@ Matthieu Gioani
 
 [Slides](http://www.slideshare.net/Matt_Gio/design-sprint-devfest-nantes-2016)
 
+**Coder ses applications iOS et Android en Go**
+
+Antoine Richard
+
+[Slides](https://drive.google.com/open?id=0B1h6pGHwa6gxRHg2ckFOWEwtUEdKRHRudnlOVjVTbExWSUZJ)
+
+
 ### Day 2
 
 **A la découverte de Go(lang)**
