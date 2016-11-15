@@ -39,7 +39,14 @@ Antoine Richard
 Pierre Salmon & Nicolas Greffard
 
 [Github](https://github.com/ddway2/devfest2016-phoenix-caffe)
+
 [Slides](https://github.com/ddway2/devfest2016-phoenix-caffe/blob/master/slides/slides.pdf)
+
+**Chérie, j'ai imprimé Lego'sses !**
+
+Stéphane Cohan & Vincent Piard
+
+[Slides](https://github.com/lea-leo/slides/blob/master/DevFest2016_Conference_vFinale.pdf)
 
 
 ### Day 2
