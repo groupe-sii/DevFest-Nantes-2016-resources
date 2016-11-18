@@ -48,6 +48,11 @@ Stéphane Cohan & Vincent Piard
 
 [Slides](https://github.com/lea-leo/slides/blob/master/DevFest2016_Conference_vFinale.pdf)
 
+**Seamless Linking to Your App**
+
+Cyril Mottier
+
+[Slides](https://speakerdeck.com/cyrilmottier/seamless-linking-to-your-app)
 
 ### Day 2
 
