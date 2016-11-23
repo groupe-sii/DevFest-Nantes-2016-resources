@@ -134,6 +134,13 @@ Fabien Juif
 
 [Slides](https://docs.google.com/presentation/d/14TorRNaSEG08mdbgLz02rT3SC6bkyGTwqccOIG-2R1o/edit#slide=id.g138dd8872b_0_7635)
 
+**Apache Beam, un modèle unifié pour le traitement des données Big Data**
+
+Jean-Baptiste Onofré & Ismaël Mejía
+
+[Slides](http://maven.nanthrax.net/beam/devfest.pdf)
+
+
 **Développez des applications web desktop avec Electron de Github**
 
 Philippe Charrière & Yvonnick Frin & Eric Briand
