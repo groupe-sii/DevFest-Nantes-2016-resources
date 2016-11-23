@@ -54,6 +54,12 @@ Cyril Mottier
 
 [Slides](https://speakerdeck.com/cyrilmottier/seamless-linking-to-your-app)
 
+**Le Web de Demaintenant**
+
+Jean-François Garreau & François Beaufort
+
+[Slides](https://jef.binomed.fr/PrezWeb/)
+
 ### Day 2
 
 **A la découverte de Go(lang)**
