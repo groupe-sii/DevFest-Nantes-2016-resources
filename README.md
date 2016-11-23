@@ -141,3 +141,12 @@ Philippe Charrière & Yvonnick Frin & Eric Briand
 [Github](https://github.com/frinyvonnick/electron-workshop)
 
 [Slides](https://github.com/frinyvonnick/electron-workshop/blob/master/slides/Electron%20DevFest%20Nantes%202016.pdf)
+
+**Apache Spark avec NodeJS ? Oui, c'est possible avec EclairJS !**
+
+Bruno Bonnin
+
+[Github](https://github.com/bbonnin/devfestnantes2016)
+
+[Slides](http://fr.slideshare.net/BrunoBonnin/apache-spark-avec-nodejs-oui-cest-possible-avec-eclairjs)
+
