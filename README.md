@@ -4,6 +4,12 @@ Links to slides, github repos, demo apps,...
 
 ### Day 1
 
+**Haskell for the noobs**
+
+Frédéric Menou
+
+[Slides](https://ptitfred.github.io/haskell-for-the-noobs/)
+
 **Introduction à la programmation réactive**
 
 Thomas Belin
