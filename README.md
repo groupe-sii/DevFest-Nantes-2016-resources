@@ -66,6 +66,12 @@ Jean-François Garreau & François Beaufort
 
 [Slides](https://jef.binomed.fr/PrezWeb/)
 
+**Jigsaw est prêt à tuer le classpath Java**
+
+Alexis Hassler
+
+[Slides](http://fr.slideshare.net/sewatech/devfest-nantes-2016-jigsaw)
+
 ### Day 2
 
 **A la découverte de Go(lang)**
