@@ -175,3 +175,9 @@ Bruno Bonnin
 
 [Slides](http://fr.slideshare.net/BrunoBonnin/apache-spark-avec-nodejs-oui-cest-possible-avec-eclairjs)
 
+**Les Pipelines Jenkins dans la vraie vie**
+
+Jean-Philippe Briend
+
+[Slides](http://www.slideshare.net/Mudak1/devfest-nantes-2016-les-pipelines-jenkins-dans-la-vraie-vie)
+
